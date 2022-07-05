@@ -74,7 +74,7 @@ empleados que tienen comisión superior a 1000.
 19. Ahora obtener los nombres de los departamentos que no sean “Ventas” ni “Investigación” ni
 ‘Mantenimiento.
 
-20. Mostrar el salario más alto de la empresa.
+20. Mostrar el salario más alto de la empresa
 
 21. Mostrar el nombre del último empleado de la lista por orden alfabético.
 
